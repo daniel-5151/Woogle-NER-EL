@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="804.93665"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-445.936646 -374.000000 804.936646 702.000000" height="702.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 176.449127,-203.122849 L 31.889605,72.357155"
+              class="id_Renkum id_Stadsregio_Arnhem_Nijmegen"
+              stroke-opacity="1.0" stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 164.914642,-214.442856 L -24.931721,-110.229706"
+              class="id_Renkum id_Lingewaard" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 183.961075,-200.461700 L 158.274017,-72.205933"
+              class="id_Renkum id_Heumen" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.800064,-210.172211 L 137.268173,-185.159531"
+              class="id_Renkum id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 165.806808,-242.901154 L 136.192566,-261.662445"
+              class="id_Renkum id_Duiven" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 217.096069,-223.418518 L 317.806793,-207.027252"
+              class="id_Renkum id_Montferland" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.619064,-200.395935 L 201.046997,-166.108658"
+              class="id_Renkum id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.306091,-221.084122 L 22.270023,-185.848419"
+              class="id_Renkum id_Overbetuwe" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 215.705704,-218.162094 L 248.190308,-206.089096"
+              class="id_Renkum id_Rheden" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.974228,-255.803360 L 195.433426,-294.167053"
+              class="id_Renkum id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 266.902527,-34.133209 L 253.636078,-53.686283"
+              class="id_Culemborg id_Neder-Betuwe" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 260.288116,-22.497087 L 72.301430,-33.623974"
+              class="id_Culemborg id_Groesbeek" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 260.261749,-21.656717 L 199.373123,-21.875322"
+              class="id_Culemborg id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 263.643463,-31.140881 L 137.395432,-133.531342"
+              class="id_Culemborg id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 267.521027,-34.531265 L 224.408386,-105.236046"
+              class="id_Culemborg id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.7088608"
+              d="M -0.738679,152.131073 L -68.336876,114.665695"
+              class="id_Veiligheidshuis id_Nijmegen" stroke-opacity="1.0"
+              stroke="#e87886"/>
+        <path fill="none" stroke-width="2.063291"
+              d="M 3.834781,169.032501 L -6.477943,186.387054"
+              class="id_Veiligheidshuis id_Volkspartij_voor_Vrijheid_en_Democratie"
+              stroke-opacity="1.0" stroke="#ff743e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1.551180,167.294495 L -41.151146,211.780167"
+              class="id_Veiligheidshuis id_Christen-Democratisch_Appèl"
+              stroke-opacity="1.0" stroke="#ff743e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 13.574298,146.099396 L 72.171310,-68.084190"
+              class="id_Veiligheidshuis id_GGD_Gelderland-Zuid"
+              stroke-opacity="1.0" stroke="#b3903a"/>
+        <path fill="none" stroke-width="1.886076"
+              d="M -28.271458,189.311798 L -83.858498,135.646027"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie id_Nijmegen"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="15.0"
+              d="M -30.548210,211.005249 L -37.997574,215.661911"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie id_Christen-Democratisch_Appèl"
+              stroke-opacity="1.0" stroke="#ff743e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -9.862310,184.831467 L 13.959101,114.253700"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie id_Stadsregio_Arnhem_Nijmegen"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -19.537016,184.361008 L -28.561882,145.525818"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie id_Gelderland"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -10.096304,184.754288 L 71.414894,-68.309357"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie id_GGD_Gelderland-Zuid"
+              stroke-opacity="1.0" stroke="#b3903a"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -0.773115,-80.098358 L -83.070313,-2.441071"
+              class="id_Wijchen id_Nijmegen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.718372,-83.316895 L 102.064331,-44.065022"
+              class="id_Wijchen id_Heumen" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 2.122064,-77.817444 L -9.435383,-57.639168"
+              class="id_Wijchen id_Druten" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 18.547997,-96.105515 L 72.585052,-135.284653"
+              class="id_Wijchen id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.618378,-355.868958 L 137.185791,-292.699371"
+              class="id_Doesburg id_Duiven" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 258.597229,-350.391144 L 159.428619,-124.275146"
+              class="id_Doesburg id_Rijnwaarden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 266.189301,-349.592407 L 275.539093,-304.323792"
+              class="id_Doesburg id_Westervoort" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.722733,-355.682037 L 224.743423,-339.745605"
+              class="id_Doesburg id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.378700,61.370552 L -55.825058,64.021126"
+              class="id_Ubbergen id_Nijmegen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="2.063291"
+              d="M 76.725609,46.677673 L 56.718018,-13.292240"
+              class="id_Ubbergen id_Groesbeek" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M 70.661423,50.485622 L 54.530209,34.800171"
+              class="id_Ubbergen id_Millingen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M 90.997726,49.233673 L 116.214142,17.822626"
+              class="id_Ubbergen id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.292732,75.583618 L 40.525154,202.120728"
+              class="id_Ubbergen id_Waterschap_Rivierenland"
+              stroke-opacity="1.0" stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -172.721313,237.153076 L -116.797768,208.058197"
+              class="id_Unie_Zorg_en_Welzijn id_Pensioenfonds_Zorg_en_Welzijn"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.4177215"
+              d="M -181.901947,230.539398 L -171.485992,164.951920"
+              class="id_Unie_Zorg_en_Welzijn id_Nijmegen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -175.286438,233.773758 L -163.381271,221.044800"
+              class="id_Unie_Zorg_en_Welzijn id_Nijmegen-Noord"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -195.453857,238.062286 L -306.938812,190.956619"
+              class="id_Unie_Zorg_en_Welzijn id_Fring" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 33.188610,28.495192 L -57.733154,46.629688"
+              class="id_Millingen id_Nijmegen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.886076"
+              d="M 46.332901,13.491294 L 48.001148,-12.165539"
+              class="id_Millingen id_Groesbeek" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 56.902325,20.705194 L 101.913879,-0.371300"
+              class="id_Millingen id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M -25.471998,-38.841980 L -77.938957,3.440735"
+              class="id_Druten id_Nijmegen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.252156,-44.859299 L 97.657387,-29.670940"
+              class="id_Druten id_Heumen" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -6.465932,-55.278866 L 75.705467,-131.484894"
+              class="id_Druten id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 29.742453,205.713470 L -75.877266,126.290405"
+              class="id_Waterschap_Rivierenland id_Nijmegen"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 27.739185,211.430283 L -129.247559,206.824173"
+              class="id_Waterschap_Rivierenland id_Nijmegen-Noord"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -0.737964,-169.502838 L -100.839203,-17.351669"
+              class="id_Overbetuwe id_Nijmegen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -0.355033,-169.259048 L -32.077866,-117.741714"
+              class="id_Overbetuwe id_Lingewaard" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 17.579185,-170.777054 L 114.476318,-60.480812"
+              class="id_Overbetuwe id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 19.713955,-191.219360 L 173.691910,-306.311920"
+              class="id_Overbetuwe id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.7088608"
+              d="M -54.104698,-83.682159 L -99.652100,-16.558456"
+              class="id_Lingewaard id_Nijmegen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -36.332870,-81.212379 L 14.078280,70.900162"
+              class="id_Lingewaard id_Stadsregio_Arnhem_Nijmegen"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -42.855293,-80.182968 L -44.487926,154.849869"
+              class="id_Lingewaard id_Bemmel" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -29.468187,-115.832062 L 90.404869,-254.869263"
+              class="id_Lingewaard id_Duiven" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -23.949192,-92.762497 L 100.921165,-41.485985"
+              class="id_Lingewaard id_Heumen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="7.025316"
+              d="M -45.415497,123.772385 L -67.139793,112.439926"
+              class="id_Gelderland id_Nijmegen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -44.732594,138.956558 L -132.453705,195.270370"
+              class="id_Gelderland id_Nijmegen-Noord" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.949367"
+              d="M -19.682371,121.953369 L 2.691807,105.914047"
+              class="id_Gelderland id_Stadsregio_Arnhem_Nijmegen"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -41.147652,142.835678 L -127.110916,256.035065"
+              class="id_Gelderland id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -349.509491,88.388313 L -255.151291,77.574966"
+              class="id_Wet_dwangsom_en_beroep_bij_niet_tijdig_beslissen id_Nijmegen"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -350.231873,93.416367 L -328.170074,102.730797"
+              class="id_Wet_dwangsom_en_beroep_bij_niet_tijdig_beslissen id_Gemeentewet"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -366.858307,96.237663 L -382.613983,110.499313"
+              class="id_Wet_dwangsom_en_beroep_bij_niet_tijdig_beslissen id_Wet_milieubeheer"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.886076"
+              d="M -52.038948,158.214386 L -80.985970,132.541901"
+              class="id_Bemmel id_Nijmegen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -53.860600,168.517090 L -130.652313,198.789520"
+              class="id_Bemmel id_Nijmegen-Noord" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="5.962025"
+              d="M -263.879669,126.338318 L -243.181091,114.818939"
+              class="id_Algemene_Rekenkamer id_Nijmegen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -281.406433,126.430878 L -300.910797,115.844360"
+              class="id_Algemene_Rekenkamer id_Gemeentewet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -273.531036,141.159439 L -278.699524,197.507156"
+              class="id_Algemene_Rekenkamer id_Tweede_Kamer_der_Staten-Generaal"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.4177215"
+              d="M -122.866806,160.610474 L -111.220024,194.000748"
+              class="id_Nijmegen id_Pensioenfonds_Zorg_en_Welzijn"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="14.113924"
+              d="M -151.323730,166.089294 L -150.432892,185.963867"
+              class="id_Nijmegen id_Nijmegen-Noord" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M -205.815399,152.784119 L -274.910217,272.415619"
+              class="id_Nijmegen id_Raad_van_State" stroke-opacity="1.0"
+              stroke="#6999d4"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -191.540710,159.585052 L -243.791458,296.129395"
+              class="id_Nijmegen id_Nijmegen-Oost" stroke-opacity="1.0"
+              stroke="#6999d4"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -66.101852,21.985893 L 28.981436,-24.870817"
+              class="id_Nijmegen id_Groesbeek" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="2.772152"
+              d="M -199.757523,156.010925 L -228.997986,215.761993"
+              class="id_Nijmegen id_Den_Haag" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="3.1265824"
+              d="M -252.396698,92.061859 L -299.592346,104.702850"
+              class="id_Nijmegen id_Gemeentewet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -56.895386,80.939903 L -1.338406,89.225365"
+              class="id_Nijmegen id_Stadsregio_Arnhem_Nijmegen"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.772152"
+              d="M -102.626198,150.879517 L -65.985970,209.234711"
+              class="id_Nijmegen id_Christen-Democratisch_Appèl"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -221.110397,141.917755 L -271.637543,200.505920"
+              class="id_Nijmegen id_Tweede_Kamer_der_Staten-Generaal"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.772152"
+              d="M -59.765320,38.314064 L 99.114929,-7.802597"
+              class="id_Nijmegen id_Heumen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -80.068672,0.886208 L 74.720474,-132.586288"
+              class="id_Nijmegen id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -236.312561,125.502136 L -308.397583,178.607239"
+              class="id_Nijmegen id_Fring" stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.2405064"
+              d="M -222.632446,-8.198784 L -254.036972,-43.154648"
+              class="id_Nijmegen id_Matthias_van_Hunnik" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.063291"
+              d="M -204.354691,-21.232330 L -229.096848,-65.781601"
+              class="id_Nijmegen id_Kieswet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M -71.980133,11.655472 L 61.997490,-75.510246"
+              class="id_Nijmegen id_GGD_Gelderland-Zuid" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M -249.790314,32.041206 L -327.800629,3.698174"
+              class="id_Nijmegen id_Canisius-Wilhelmina_Ziekenhuis"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.7088608"
+              d="M -240.704865,13.355663 L -286.767822,-15.308537"
+              class="id_Nijmegen id_VSV" stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -145.308411,165.637543 L -136.032990,253.544846"
+              class="id_Nijmegen id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.886076"
+              d="M -130.106812,162.832123 L -111.799347,231.689819"
+              class="id_Nijmegen id_Vereniging_van_Nederlandse_Gemeenten"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -184.522476,161.976379 L -197.218384,204.318329"
+              class="id_Nijmegen id_Nationale_ombudsman" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.7088608"
+              d="M -95.507370,145.968109 L -74.033234,174.381729"
+              class="id_Nijmegen id_Heumensoord" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -219.866974,-10.593353 L -280.062225,-82.737846"
+              class="id_Nijmegen id_Maarten_Groothuizen" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -253.510345,87.473099 L -380.256958,115.081779"
+              class="id_Nijmegen id_Wet_milieubeheer" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 323.183411,-189.732269 L 185.154053,-57.446075"
+              class="id_Montferland id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 317.906006,-199.949707 L 145.789413,-166.958771"
+              class="id_Montferland id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 319.960754,-194.164658 L 236.347260,-149.224091"
+              class="id_Montferland id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 317.612366,-202.096313 L 292.394958,-200.010498"
+              class="id_Montferland id_Rheden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 325.601929,-219.955170 L 296.009521,-259.130524"
+              class="id_Montferland id_Westervoort" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 322.489380,-217.042709 L 221.296402,-304.610168"
+              class="id_Montferland id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -380.091400,116.084282 L -329.266174,110.325508"
+              class="id_Wet_milieubeheer id_Gemeentewet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.7088608"
+              d="M 230.086365,-67.911888 L 94.448853,-83.188042"
+              class="id_Neder-Betuwe id_GGD_Gelderland-Zuid"
+              stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.354507,-59.937885 L 194.769196,-43.266232"
+              class="id_Neder-Betuwe id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 232.537369,-74.621223 L 139.650146,-136.592224"
+              class="id_Neder-Betuwe id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 237.693054,-79.405663 L 223.440002,-104.667847"
+              class="id_Neder-Betuwe id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -343.844330,7.756351 L -360.535431,26.527691"
+              class="id_Canisius-Wilhelmina_Ziekenhuis id_Radboudumc"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M -328.471558,-4.597569 L -308.413635,-15.814525"
+              class="id_Canisius-Wilhelmina_Ziekenhuis id_VSV"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.046295,-256.810883 L 171.633865,-67.532867"
+              class="id_Westervoort id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 259.718689,-265.028870 L 139.346268,-182.391556"
+              class="id_Westervoort id_Mook_en_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M 255.254837,-279.212189 L 140.937851,-278.274109"
+              class="id_Westervoort id_Duiven" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 269.237793,-256.713348 L 222.070755,-163.129562"
+              class="id_Westervoort id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 277.252502,-254.224670 L 272.698792,-220.774567"
+              class="id_Westervoort id_Rheden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 265.323700,-259.154663 L 161.972519,-122.781517"
+              class="id_Westervoort id_Rijnwaarden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 258.380798,-291.637360 L 224.991089,-309.927673"
+              class="id_Westervoort id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="2.2405064"
+              d="M 90.853577,-121.188583 L 83.266617,-101.680267"
+              class="id_Mook_en_Middelaar id_GGD_Gelderland-Zuid"
+              stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="2.772152"
+              d="M 88.834991,-122.036583 L 58.898357,-55.802937"
+              class="id_Mook_en_Middelaar id_Groesbeek" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="3.4810126"
+              d="M 117.769127,-120.245056 L 133.076462,-70.905060"
+              class="id_Mook_en_Middelaar id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="5.962025"
+              d="M 145.266617,-149.225433 L 175.027771,-141.679214"
+              class="id_Mook_en_Middelaar id_Middelaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 107.280106,-200.092499 L 109.157265,-247.475784"
+              class="id_Mook_en_Middelaar id_Duiven" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 145.418518,-168.690002 L 247.374619,-192.854919"
+              class="id_Mook_en_Middelaar id_Rheden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.612808,-194.922699 L 183.251205,-297.935791"
+              class="id_Mook_en_Middelaar id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -146.627838,262.034668 L -219.996582,237.326752"
+              class="id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties id_Den_Haag"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.2405064"
+              d="M -125.685471,257.298798 L -116.411545,248.312775"
+              class="id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties id_Vereniging_van_Nederlandse_Gemeenten"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -99.591522,238.689087 L -74.751068,231.820770"
+              class="id_Vereniging_van_Nederlandse_Gemeenten id_Christen-Democratisch_Appèl"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 9.928356,112.442398 L -45.134407,208.801758"
+              class="id_Stadsregio_Arnhem_Nijmegen id_Christen-Democratisch_Appèl"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M 1.223841,103.581032 L -191.320831,209.091431"
+              class="id_Stadsregio_Arnhem_Nijmegen id_Nationale_ombudsman"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 26.611454,70.372910 L 103.221535,-248.298721"
+              class="id_Stadsregio_Arnhem_Nijmegen id_Duiven"
+              stroke-opacity="1.0" stroke="#9d9482"/>
+        <path fill="none" stroke-width="2.5949366"
+              d="M -271.123474,290.821869 L -258.358582,300.350464"
+              class="id_Raad_van_State id_Nijmegen-Oost" stroke-opacity="1.0"
+              stroke="#00b7da"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -272.999268,273.771484 L -248.336761,245.102295"
+              class="id_Raad_van_State id_Den_Haag" stroke-opacity="1.0"
+              stroke="#6999d4"/>
+        <path fill="none" stroke-width="2.949367"
+              d="M -287.073517,294.415527 L -294.734344,308.905457"
+              class="id_Raad_van_State id_Afdeling_bestuursrechtspraak_van_de_Raad_van_State"
+              stroke-opacity="1.0" stroke="#00b7da"/>
+        <path fill="none" stroke-width="2.2405064"
+              d="M 176.082108,-122.001244 L 93.453232,-91.334259"
+              class="id_Middelaar id_GGD_Gelderland-Zuid" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="2.4177215"
+              d="M 179.050110,-115.965668 L 68.866203,-47.090118"
+              class="id_Middelaar id_Groesbeek" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="3.3037975"
+              d="M 191.665817,-104.231995 L 172.130402,-67.273872"
+              class="id_Middelaar id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 188.709000,-161.069305 L 127.381348,-252.623657"
+              class="id_Middelaar id_Duiven" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 230.193130,-157.358627 L 253.726532,-181.695068"
+              class="id_Middelaar id_Rheden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 205.598969,-166.639648 L 199.613220,-294.077209"
+              class="id_Middelaar id_Zevenaar" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -239.523758,298.854309 L -163.660995,220.778137"
+              class="id_Nijmegen-Oost id_Nijmegen-Noord" stroke-opacity="1.0"
+              stroke="#6999d4"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -260.627625,310.254852 L -289.589783,315.849335"
+              class="id_Nijmegen-Oost id_Afdeling_bestuursrechtspraak_van_de_Raad_van_State"
+              stroke-opacity="1.0" stroke="#00b7da"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -307.247009,-14.083488 L -359.380310,27.742846"
+              class="id_VSV id_Radboudumc" stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -284.878784,-22.422132 L 26.643169,-34.117039"
+              class="id_VSV id_Groesbeek" stroke-opacity="1.0" stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -281.039063,-82.018616 L -266.149780,-58.991001"
+              class="id_Maarten_Groothuizen id_Matthias_van_Hunnik"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -276.897430,-87.519699 L -243.523514,-77.420235"
+              class="id_Maarten_Groothuizen id_Kieswet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -75.035568,222.169693 L -129.687943,210.474213"
+              class="id_Christen-Democratisch_Appèl id_Nijmegen-Noord"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -75.430923,224.938705 L -267.309692,210.940720"
+              class="id_Christen-Democratisch_Appèl id_Tweede_Kamer_der_Staten-Generaal"
+              stroke-opacity="1.0" stroke="#e87886"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 193.199295,-294.451813 L 156.560898,-72.518799"
+              class="id_Zevenaar id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.3544304"
+              d="M 171.173355,-310.286163 L 137.372955,-292.352051"
+              class="id_Zevenaar id_Duiven" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.212692,-297.995483 L 258.375366,-218.028732"
+              class="id_Zevenaar id_Rheden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 191.989273,-294.676666 L 156.924637,-125.073357"
+              class="id_Zevenaar id_Rijnwaarden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -293.525024,309.659729 L -247.206284,245.997375"
+              class="id_Afdeling_bestuursrechtspraak_van_de_Raad_van_State id_Den_Haag"
+              stroke-opacity="1.0" stroke="#6999d4"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 256.641785,-179.307999 L 177.259460,-64.164948"
+              class="id_Rheden id_Heumen" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 249.185577,-208.376343 L 137.692612,-264.313843"
+              class="id_Rheden id_Duiven" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.297279,197.971924 L -358.809540,39.471622"
+              class="id_Pensioenfonds_Zorg_en_Welzijn id_Radboudumc"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.5949366"
+              d="M -220.842377,223.950150 L -209.090042,218.256790"
+              class="id_Den_Haag id_Nationale_ombudsman" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.5316455"
+              d="M -252.611588,223.717194 L -268.615662,215.672226"
+              class="id_Den_Haag id_Tweede_Kamer_der_Staten-Generaal"
+              stroke-opacity="1.0" stroke="#d27cce"/>
+        <path fill="none" stroke-width="2.5949366"
+              d="M 72.148323,-32.010155 L 97.519669,-28.691698"
+              class="id_Groesbeek id_Heumen" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -253.264893,-57.258350 L -241.407333,-67.858925"
+              class="id_Matthias_van_Hunnik id_Kieswet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -78.002724,182.507431 L -305.948883,185.877823"
+              class="id_Heumensoord id_Fring" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -60.736992,175.489853 L 111.065979,13.074854"
+              class="id_Heumensoord id_Heumen" stroke-opacity="1.0"
+              stroke="#9d9482"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 114.841003,-247.780914 L 140.746796,-72.651268"
+              class="id_Duiven id_Heumen" stroke-opacity="1.0" stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M 118.234940,-248.481506 L 151.144150,-124.910294"
+              class="id_Duiven id_Rijnwaarden" stroke-opacity="1.0"
+              stroke="#68ad36"/>
+        <path fill="none" stroke-width="1.1772152"
+              d="M -317.822113,173.511581 L -315.058990,123.740227"
+              class="id_Fring id_Gemeentewet" stroke-opacity="1.0"
+              stroke="#d27cce"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#68ad36" r="25.76" cx="189.45972"
+                class="id_Renkum" cy="-227.91649" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.48"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="21.028572" cx="21.268717"
+                class="id_Stadsregio_Arnhem_Nijmegen" cy="92.59686"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="3.6571429"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="18.662857" cx="-42.714382"
+                class="id_Lingewaard" cy="-100.46819" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.245714"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="47.05143" cx="148.23059"
+                class="id_Heumen" cy="-22.058935" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="8.182857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="37.588573" cx="105.66276"
+                class="id_Mook_en_Middelaar" cy="-159.26738" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="6.5371428"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="28.125713" cx="110.36745"
+                class="id_Duiven" cy="-278.02325" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.8914285"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="18.662857" cx="337.82904"
+                class="id_Montferland" cy="-203.76851" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.245714"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="30.491432" cx="207.15398"
+                class="id_Middelaar" cy="-133.5333" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="5.3028574"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="13.931428" cx="7.584904"
+                class="id_Overbetuwe" cy="-182.15337" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="21.028572" cx="269.6156"
+                class="id_Rheden" cy="-198.12633" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.6571429"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="28.125713" cx="198.17886"
+                class="id_Zevenaar" cy="-324.61496" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.8914285"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="13.931428" cx="275.4045"
+                class="id_Culemborg" cy="-21.602352" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="13.931428" cx="245.1341"
+                class="id_Neder-Betuwe" cy="-66.21714" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="21.028572" cx="49.484222"
+                class="id_Groesbeek" cy="-34.974518" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="3.6571429"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="11.565714" cx="10.256878"
+                class="id_Veiligheidshuis" cy="158.22522" stroke="#b2512b"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="92.0" cx="-155.80154"
+                class="id_Nijmegen" cy="66.18959" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="16.0"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="16.297144" cx="-15.527263"
+                class="id_Volkspartij_voor_Vrijheid_en_Democratie"
+                cy="201.61551" stroke="#b2512b" stroke-opacity="1.0"
+                stroke-width="2.8342857"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="18.662857" cx="-55.198975"
+                class="id_Christen-Democratisch_Appèl" cy="226.41467"
+                stroke="#b2512b" stroke-opacity="1.0" stroke-width="3.245714"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="16.297144" cx="76.845856"
+                class="id_GGD_Gelderland-Zuid" cy="-85.17058" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.8342857"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="13.931428" cx="-31.989574"
+                class="id_Gelderland" cy="130.776" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="11.565714" cx="8.37024"
+                class="id_Wijchen" cy="-88.72621" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="11.565714" cx="-15.683559"
+                class="id_Druten" cy="-46.730408" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="11.565714" cx="263.64648"
+                class="id_Doesburg" cy="-361.904" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="11.565714" cx="154.37938"
+                class="id_Rijnwaarden" cy="-112.76228" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="23.394285" cx="280.68256"
+                class="id_Westervoort" cy="-279.42084" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="4.0685716"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="13.931428" cx="81.518"
+                class="id_Ubbergen" cy="61.042183" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="11.565714" cx="45.51721"
+                class="id_Millingen" cy="26.036232" stroke="#487925"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="37.734882"
+                class="id_Waterschap_Rivierenland" cy="211.72356"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="11.565714" cx="-183.8737"
+                class="id_Unie_Zorg_en_Welzijn" cy="242.95523" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-107.92655"
+                class="id_Pensioenfonds_Zorg_en_Welzijn" cy="203.44284"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="18.662857" cx="-149.52454"
+                class="id_Nijmegen-Noord" cy="206.22923" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="3.245714"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="11.565714" cx="-318.51895"
+                class="id_Fring" cy="186.06367" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-44.55739"
+                class="id_Bemmel" cy="164.84962" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="11.565714" cx="-134.71385"
+                class="id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties"
+                cy="266.04688" stroke="#935690" stroke-opacity="1.0"
+                stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-359.44446"
+                class="id_Wet_dwangsom_en_beroep_bij_niet_tijdig_beslissen"
+                cy="89.52685" stroke="#935690" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="13.931428" cx="-314.2196"
+                class="id_Gemeentewet" cy="108.62065" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.422857"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-390.02783"
+                class="id_Wet_milieubeheer" cy="117.21013" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-272.6176"
+                class="id_Algemene_Rekenkamer" cy="131.20125" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="11.565714" cx="-279.8478"
+                class="id_Tweede_Kamer_der_Staten-Generaal" cy="210.02603"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="11.565714" cx="-281.19766"
+                class="id_Raad_van_State" cy="283.3018" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="11.565714" cx="-248.28438"
+                class="id_Nijmegen-Oost" cy="307.87054" stroke="#008098"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="16.297144" cx="-236.78447"
+                class="id_Den_Haag" cy="231.6732" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.8342857"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-260.72006"
+                class="id_Matthias_van_Hunnik" cy="-50.593483" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-233.95216"
+                class="id_Kieswet" cy="-74.523796" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-337.1995"
+                class="id_Canisius-Wilhelmina_Ziekenhuis" cy="0.28333575"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="11.565714" cx="-297.44138"
+                class="id_VSV" cy="-21.950518" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="2.0114286"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-109.22987"
+                class="id_Vereniging_van_Nederlandse_Gemeenten" cy="241.35406"
+                stroke="#935690" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-200.09047"
+                class="id_Nationale_ombudsman" cy="213.897" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-68.003815"
+                class="id_Heumensoord" cy="182.35959" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-286.46878"
+                class="id_Maarten_Groothuizen" cy="-90.41614" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="-367.18027"
+                class="id_Radboudumc" cy="34.00071" stroke="#935690"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-299.4083"
+                class="id_Afdeling_bestuursrechtspraak_van_de_Raad_van_State"
+                cy="317.74594" stroke="#008098" stroke-opacity="1.0"
+                stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="8" x="189.45972" y="-226.46141" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Renkum">
+            Renkum
+        </text>
+        <text font-size="8" x="21.268717" y="94.47447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stadsregio_Arnhem_Nijmegen">
+            Stadsregio Arnhem Nijmegen
+        </text>
+        <text font-size="8" x="-42.714382" y="-98.615326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lingewaard">
+            Lingewaard
+        </text>
+        <text font-size="8" x="148.23059" y="-20.603857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Heumen">
+            Heumen
+        </text>
+        <text font-size="8" x="105.66276" y="-157.8123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mook_en_Middelaar">
+            Mook en Middelaar
+        </text>
+        <text font-size="8" x="110.36745" y="-276.56818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duiven">
+            Duiven
+        </text>
+        <text font-size="8" x="337.82904" y="-202.2887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Montferland">
+            Montferland
+        </text>
+        <text font-size="8" x="207.15398" y="-132.07822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Middelaar">
+            Middelaar
+        </text>
+        <text font-size="8" x="7.584904" y="-180.6716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Overbetuwe">
+            Overbetuwe
+        </text>
+        <text font-size="8" x="269.6156" y="-196.67125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rheden">
+            Rheden
+        </text>
+        <text font-size="8" x="198.17886" y="-323.15988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zevenaar">
+            Zevenaar
+        </text>
+        <text font-size="8" x="275.4045" y="-19.724747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Culemborg">
+            Culemborg
+        </text>
+        <text font-size="8" x="245.1341" y="-64.76206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Neder-Betuwe">
+            Neder-Betuwe
+        </text>
+        <text font-size="8" x="49.484222" y="-33.4934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Groesbeek">
+            Groesbeek
+        </text>
+        <text font-size="8" x="10.256878" y="160.07808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Veiligheidshuis">
+            Veiligheidshuis
+        </text>
+        <text font-size="8" x="-155.80154" y="68.04246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nijmegen">
+            Nijmegen
+        </text>
+        <text font-size="8" x="-15.527263" y="203.46837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Volkspartij_voor_Vrijheid_en_Democratie">
+            Volkspartij voor Vrijheid en Democratie
+        </text>
+        <text font-size="8" x="-55.198975" y="228.26883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Christen-Democratisch_Appèl">
+            Christen-Democratisch Appèl
+        </text>
+        <text font-size="8" x="76.845856" y="-83.68945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_GGD_Gelderland-Zuid">
+            GGD Gelderland-Zuid
+        </text>
+        <text font-size="8" x="-31.989574" y="132.25713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gelderland">
+            Gelderland
+        </text>
+        <text font-size="8" x="8.37024" y="-86.873344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wijchen">
+            Wijchen
+        </text>
+        <text font-size="8" x="-15.683559" y="-45.27533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Druten">
+            Druten
+        </text>
+        <text font-size="8" x="263.64648" y="-360.05112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Doesburg">
+            Doesburg
+        </text>
+        <text font-size="8" x="154.37938" y="-110.90942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rijnwaarden">
+            Rijnwaarden
+        </text>
+        <text font-size="8" x="280.68256" y="-277.96576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Westervoort">
+            Westervoort
+        </text>
+        <text font-size="8" x="81.518" y="62.895046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ubbergen">
+            Ubbergen
+        </text>
+        <text font-size="8" x="45.51721" y="27.889097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Millingen">
+            Millingen
+        </text>
+        <text font-size="8" x="37.734882" y="213.55298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Waterschap_Rivierenland">
+            Waterschap Rivierenland
+        </text>
+        <text font-size="8" x="-183.8737" y="244.80809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Unie_Zorg_en_Welzijn">
+            Unie Zorg en Welzijn
+        </text>
+        <text font-size="8" x="-107.92655" y="205.32043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pensioenfonds_Zorg_en_Welzijn">
+            Pensioenfonds Zorg en Welzijn
+        </text>
+        <text font-size="8" x="-149.52454" y="208.08209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nijmegen-Noord">
+            Nijmegen-Noord
+        </text>
+        <text font-size="8" x="-318.51895" y="187.91653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fring">
+            Fring
+        </text>
+        <text font-size="8" x="-44.55739" y="166.3047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bemmel">
+            Bemmel
+        </text>
+        <text font-size="8" x="-134.71385" y="267.89975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Ministerie_van_Binnenlandse_Zaken_en_Koninkrijksrelaties">
+            Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+        </text>
+        <text font-size="8" x="-359.44446" y="91.379715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Wet_dwangsom_en_beroep_bij_niet_tijdig_beslissen">
+            Wet dwangsom en beroep bij niet tijdig beslissen
+        </text>
+        <text font-size="8" x="-314.2196" y="110.101776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gemeentewet">
+            Gemeentewet
+        </text>
+        <text font-size="8" x="-390.02783" y="118.66521" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wet_milieubeheer">
+            Wet milieubeheer
+        </text>
+        <text font-size="8" x="-272.6176" y="133.05411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Algemene_Rekenkamer">
+            Algemene Rekenkamer
+        </text>
+        <text font-size="8" x="-279.8478" y="211.50714" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Tweede_Kamer_der_Staten-Generaal">
+            Tweede Kamer der Staten-Generaal
+        </text>
+        <text font-size="8" x="-281.19766" y="284.7829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Raad_van_State">
+            Raad van State
+        </text>
+        <text font-size="8" x="-248.28438" y="309.7488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nijmegen-Oost">
+            Nijmegen-Oost
+        </text>
+        <text font-size="8" x="-236.78447" y="233.52606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Den_Haag">
+            Den Haag
+        </text>
+        <text font-size="8" x="-260.72006" y="-49.138405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Matthias_van_Hunnik">
+            Matthias van Hunnik
+        </text>
+        <text font-size="8" x="-233.95216" y="-73.06872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kieswet">
+            Kieswet
+        </text>
+        <text font-size="8" x="-337.1995" y="1.7644556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Canisius-Wilhelmina_Ziekenhuis">
+            Canisius-Wilhelmina Ziekenhuis
+        </text>
+        <text font-size="8" x="-297.44138" y="-20.469398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_VSV">
+            VSV
+        </text>
+        <text font-size="8" x="-109.22987" y="243.23166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Vereniging_van_Nederlandse_Gemeenten">
+            Vereniging van Nederlandse Gemeenten
+        </text>
+        <text font-size="8" x="-200.09047" y="215.35208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nationale_ombudsman">
+            Nationale ombudsman
+        </text>
+        <text font-size="8" x="-68.003815" y="183.81467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Heumensoord">
+            Heumensoord
+        </text>
+        <text font-size="8" x="-286.46878" y="-88.93501" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maarten_Groothuizen">
+            Maarten Groothuizen
+        </text>
+        <text font-size="8" x="-367.18027" y="35.455788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Radboudumc">
+            Radboudumc
+        </text>
+        <text font-size="8" x="-299.4083" y="319.62354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Afdeling_bestuursrechtspraak_van_de_Raad_van_State">
+            Afdeling bestuursrechtspraak van de Raad van State
+        </text>
+    </g>
+</svg>
