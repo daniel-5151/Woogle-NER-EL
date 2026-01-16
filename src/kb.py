@@ -4,7 +4,6 @@ def index_kb(kb):
     db = sqlite3.connect(':memory:')
     cur = db.cursor()
 
-    print("Creating indexed kb")
     # Create surface form table
     cur.execute('create virtual table kb using fts5(qid UNINDEXED, surface_form, normal_form UNINDEXED, label UNINDEXED, description UNINDEXED, tokenize="porter unicode61");')
 

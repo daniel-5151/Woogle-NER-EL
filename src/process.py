@@ -1,20 +1,23 @@
+import pandas as pd
 from tqdm import tqdm
+import gc
+
 from src.ner import named_entity_recognition
 from src.el import entity_linking
 
-def return_entities(text: str):
+def return_entities(text: str, ner_model, el_model, cur):
     if len(text) > 200000: # Documents with high number of tokens can overload the RAM
         return []
 
 
-    entities = named_entity_recognition(text)
+    entities = named_entity_recognition(text, ner_model)
     entities_norm = []
 
     for entity in entities:
         mention = entity['mention']
         context = entity['context']
         start = entity['start']
-        linked = entity_linking(mention, context)
+        linked = entity_linking(mention, context, el_model, cur)
         if linked != 'NILL':
             entities_norm.append({
                 'entity': linked,
@@ -24,7 +27,7 @@ def return_entities(text: str):
 
     return entities_norm
 
-def test(df, ner_model, el_model, cur, batch_size=5):
+def process_batches(df, ner_model, el_model, cur, batch_size=5):
     results = []
 
     total_batches = len(df) // batch_size + 1
@@ -34,22 +37,20 @@ def test(df, ner_model, el_model, cur, batch_size=5):
         
         batch = df.iloc[start:end].copy()
         batch_results = []
+    
         for text in batch['foi_bodyTextOCR']:
-            entities = named_entity_recognition(text, ner_model)
-            
-            entities_norm = []
+            try:
+                ents = return_entities(text, ner_model, el_model, cur)
+            except Exception as e:
+                # print(f"Error processing text: {e}")
+                ents = []
+            batch_results.append(ents)
+    
+        batch['entities'] = batch_results
+        results.append(batch)
+        
+        del batch, batch_results
+        gc.collect()
 
-            for entity in entities:
-                mention = entity['mention']
-                context = entity['context']
-                start = entity['start']
-                linked = entity_linking(mention, context, el_model, cur)
-                if linked != 'NILL':
-                    entities_norm.append({
-                        'entity': linked,
-                        'start': start
-                    })
-
-
-        print(entities_norm)
-    return 0
+    df_results = pd.concat(results, ignore_index=True)
+    return df_results
