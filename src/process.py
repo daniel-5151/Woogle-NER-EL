@@ -2,7 +2,7 @@ from tqdm import tqdm
 from src.ner import named_entity_recognition
 from src.el import entity_linking
 
-def return_entities(text):
+def return_entities(text: str):
     if len(text) > 200000: # Documents with high number of tokens can overload the RAM
         return []
 
