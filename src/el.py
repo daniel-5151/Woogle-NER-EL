@@ -51,6 +51,6 @@ def entity_linking(mention, context, model, cur, limit=10, alpha=0.55, threshold
 
     qid, label, score = result
     if score > threshold:
-        return qid # Change to 'label' to return page titles 
+        return qid, label # Change to 'label' to return page titles 
     else:
-        return 'NILL'
+        return "NILL", "NILL"
