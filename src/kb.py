@@ -1,7 +1,7 @@
 import sqlite3
 
 def index_kb(kb):
-    db = sqlite3.connect(':memory:')
+    db = sqlite3.connect(":memory:")
     cur = db.cursor()
 
     # Create surface form table
