@@ -8,7 +8,7 @@ from src.kb import index_kb
 
 app = FastAPI()
 
-# Delay loading until startup to avoid crashes
+# Delay loading until startup
 ner_model, cross_encoder = None, None
 
 @app.on_event("startup")

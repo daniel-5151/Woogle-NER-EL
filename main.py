@@ -5,7 +5,7 @@ if __name__ == "__main__":
     ner_model, cross_encoder, cur = load_pipeline()
 
     # print(results)
-    text = "Wilders heeft met de PVV keihard verloren tijdens de Tweede Kamer verkiezingen."
+    text = "Geert Wilders van de PVV wilt dat de NPO geen geld meer krijgt."
 
     results = return_entities(text, ner_model, cross_encoder, cur)
     print(results)
