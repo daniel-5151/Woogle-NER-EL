@@ -1,5 +1,3 @@
-import pandas as pd
-
 from src.ner import named_entity_recognition
 from src.el import entity_linking
 
