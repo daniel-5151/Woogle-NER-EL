@@ -5,3 +5,4 @@ spacy
 huggingface_hub
 numpy>=1.25
 sentence_transformers
+uvicorn
