@@ -4,18 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <title>NER + EL Demo</title>
+    <link rel="stylesheet" href="static/style/main.css">
 </head>
 
 <body>
     <h2>NER + Entity Linking</h2>
 
-    <textarea id="inputText" rows="8" cols="80"
-    placeholder="Paste text here..."></textarea>
-    <br><br>
+    <div class="main-container">
+        <div class="input-container">
+            <h3>Document</h3>
+            <textarea id="inputText" rows="8" cols="80"
+            placeholder="Paste text here..."></textarea>
+            <br><br>
 
-    <button onclick="analyze()">Analyze</button>
-    <h3>Results</h3>
-    <pre id="output"></pre>
+            <button onclick="analyze()" class="analyze-btn">Analyze</button>
+        </div>
+
+        <div class="results-container">
+            <h3>Results</h3>
+            <pre id="output"></pre>
+        </div>
+    </div>
 </body>
 
 <script>

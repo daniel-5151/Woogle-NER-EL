@@ -1,6 +1,7 @@
 import os
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from app.src.process import return_entities
@@ -8,6 +9,7 @@ from app.src.data import load_kb, load_ner_model, load_el_model
 from app.src.kb import index_kb
 
 app = FastAPI()
+app.mount("/static", StaticFiles(directory="app/static"), name="static")
 file_path = os.path.join(os.path.dirname(__file__), "index.html")
 
 # Delay loading until startup
