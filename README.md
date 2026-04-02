@@ -19,8 +19,12 @@ http://127.0.0.1:7860/
 
 ## Tech Used
 **Front end**: HTML, CSS, JavaScript
+
 **Back end**: Python, FastAPI
+
 **Models**: Spacy, sententence_transformers
+
 **Database**: SQlite3
+
 **Additional packages**: Pandas, huggingface_hub. Numpy
 
