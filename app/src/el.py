@@ -1,5 +1,5 @@
-from src.utils import prepare_candidates, compute_final_scores
-from src.preprocessing import clean_text
+from app.src.utils import prepare_candidates, compute_final_scores
+from app.src.preprocessing import clean_text
 
 import numpy as np
 

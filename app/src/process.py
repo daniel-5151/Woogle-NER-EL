@@ -1,5 +1,5 @@
-from src.ner import named_entity_recognition
-from src.el import entity_linking
+from app.src.ner import named_entity_recognition
+from app.src.el import entity_linking
 
 MAX_DOC_LENGTH = 200_000
 

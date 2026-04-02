@@ -1,5 +1,5 @@
-from src.data import load_kb, load_ner_model, load_el_model
-from src.kb import index_kb
+from app.src.data import load_kb, load_ner_model, load_el_model
+from app.src.kb import index_kb
 
 def load_pipeline():
     print("Loading Knowledge Base")

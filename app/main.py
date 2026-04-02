@@ -1,12 +1,15 @@
+import sys
+import os
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 
-from src.process import return_entities
-from src.data import load_kb, load_ner_model, load_el_model
-from src.kb import index_kb
+from app.src.process import return_entities
+from app.src.data import load_kb, load_ner_model, load_el_model
+from app.src.kb import index_kb
 
 app = FastAPI()
+file_path = os.path.join(os.path.dirname(__file__), "index.html")
 
 # Delay loading until startup
 ner_model, cross_encoder = None, None
@@ -43,7 +46,7 @@ def analyze(input: TextInput):
 
 @app.get("/", response_class=HTMLResponse)
 def home():
-    with open("index.html", "r", encoding="utf-8") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         return f.read()
 
 
