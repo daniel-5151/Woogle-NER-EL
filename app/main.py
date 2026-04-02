@@ -1,4 +1,3 @@
-import sys
 import os
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
@@ -12,36 +11,28 @@ app = FastAPI()
 file_path = os.path.join(os.path.dirname(__file__), "index.html")
 
 # Delay loading until startup
-ner_model, cross_encoder = None, None
+ner_model, cross_encoder, kb, db, cur = None, None, None, None, None
 
 @app.on_event("startup")
 def startup_event():
-    global ner_model, cross_encoder
+    global ner_model, cross_encoder, kb, cur
     print("Loading models...")
     ner_model = load_ner_model()
     cross_encoder = load_el_model()
     print("Models loaded!")
-
-class TextInput(BaseModel):
-    text: str
-
-# Simple test endpoint
-# @app.get("/analyze")
-# def analyze_test(input: str = "Wilders heeft met de PVV keihard verloren tijdens de Tweede Kamer verkiezingen."):
-#     kb = load_kb()
-#     db, cur = index_kb(kb)
-#     results = return_entities(input, ner_model, cross_encoder, cur)
-#     db.close()
-#     return {"entities": results}
-
-@app.post("/analyze")
-def analyze(input: TextInput):
     print("Loading Knowledge Base")
     kb = load_kb()
     db, cur = index_kb(kb)
     print("Knowledge Base Loaded")
+
+class TextInput(BaseModel):
+    text: str
+
+@app.post("/analyze")
+def analyze(input: TextInput):
+    print("Process running")
     results = return_entities(input.text, ner_model, cross_encoder, cur)
-    db.close()
+    print("Process finished")
     return {"entities": results}
 
 @app.get("/", response_class=HTMLResponse)
